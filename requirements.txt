@@ -1,0 +1,6 @@
+gtts
+pygame
+pyautogui
+pyperclip
+pynput
+urllib3
