@@ -1,7 +1,7 @@
 Read-Anything Aloud with Python 
 ===============================
 
-NOTE: It's slow but sound like human  [MUCH faster and oFFline ](https://web.facebook.com/0Shohan0/)
+NOTE: It's slow but sound like human [faster and offline version ](https://web.facebook.com/0Shohan0/)
 ------------
 
 
