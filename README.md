@@ -14,6 +14,8 @@ Installation
     -   pyautogui
     -   pyperclip
     -   pynput
+    -   urllib3
+
 3.  Download the `read-anything-aloud.py` script from this repository and save it to your computer.
 
 Usage
@@ -38,6 +40,6 @@ You can also modify the `audio()` function to use a different text-to-speech API
 Credits
 -------
 
-This script was created by 
-[Shohan](https://web.facebook.com/0Shohan0/)
+This script was created by [Shohan](https://web.facebook.com/0Shohan0/)
+
 
