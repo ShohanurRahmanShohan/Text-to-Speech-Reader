@@ -38,11 +38,6 @@ You can also modify the `audio()` function to use a different text-to-speech API
 Credits
 -------
 
-This script was created by .```
+This script was created by 
 [Shohan](https://web.facebook.com/0Shohan0/)
-```
 
-License
--------
-
-This script is licensed under the MIT License. See the LICENSE file for more information.
