@@ -1,5 +1,9 @@
-Read-Anything Aloud with Python
+Read-Anything Aloud with Python 
 ===============================
+
+NOTE: It's slow but sound like human  [MUCH faster and oFFline ](https://web.facebook.com/0Shohan0/)
+------------
+
 
 This Python script allows you to easily read any text from a website, PDF, or anywhere else on your computer out loud. It's a useful tool for people who prefer listening to reading, for those who have difficulty reading due to visual impairments, or for anyone who wants to multitask while still consuming information.
 Additionally, the script allows you to read almost anything by simply pressing the left button of the text you want to read and hovering over it with your mouse. This means you can quickly and easily read any text on your computer without having to manually copy and paste it into another program.
