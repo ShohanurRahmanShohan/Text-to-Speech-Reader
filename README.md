@@ -8,8 +8,8 @@ Installation
 ------------
 
 1.  Ensure that you have Python 3 installed on your computer.
-2. pip install -r requirements.txt ( if its not working than)
-2.  Install the following dependencies:
+2. pip install -r requirements.txt 
+2. Or, You can Install the following dependencies manually :
     -   gtts
     -   pygame
     -   pyautogui
