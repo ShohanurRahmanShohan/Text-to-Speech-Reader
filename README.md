@@ -29,7 +29,7 @@ Usage
 1.  Open a terminal or command prompt and navigate to the directory where you saved the `read-anything-aloud.py` script.
 2.  Run the script by typing `python read-anything-aloud.py` and pressing Enter.
 3.  The script will run in the background and listen for when you click your left mouse button.
-4.  To use the script, simply hover your mouse over any text you want to read aloud and click your left mouse button. The script will automatically copy the text and read it aloud using the gTTS API.
+4.  To use the script, click and hold your left mouse button simply hover your mouse over any text you want to read aloud and The script will automatically copy     the text and read it aloud using the gTTS API.
 5.  You can exit the script at any time by pressing Ctrl + C in the terminal or command prompt.
 
 Customization
