@@ -1,7 +1,7 @@
 Read-Anything Aloud with Python 
 ===============================
 
-NOTE: It's slow but more Automated [faster/offline version here  ](https://web.facebook.com/0Shohan0/)
+NOTE: It's slow but more Automated [faster/offline version here  ](https://github.com/ShohanurRahmanShohan/-Text-to-Speech-Reader-Faster)
 ------------
 
 
